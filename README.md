@@ -1,4 +1,4 @@
-# Conda Contributor License Agreements
+# Conda Contributor License Agreement
 
 This repo contains and is used to review submissions of Conda Individual Contributor License Agreements.
 
