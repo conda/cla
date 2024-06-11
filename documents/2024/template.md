@@ -18,29 +18,17 @@ hereby grant to NumFOCUS and to recipients of software distributed by Anaconda a
 
 **Acknowledged and Agreed:**
 
-|              |
-| :----------- |
-| Printed Name |
+---
+Printed Name
 
-|                                                     |
-| :-------------------------------------------------- |
-| Address (Street, City, State, Postal Code, Country) |
+---
+Address (Street, City, State, Postal Code, Country)
 
-|                   |
-| :-----------------|
-| GitHub User ID(s) |
+---
+GitHub User ID(s)
 
-|           |
-| :-------- |
-| Signature |
+---
+Signature
 
-|      |
-| :--- |
-| Date |
-
-<style>
-/* This is just to render the table above correctly for printing */
-table {
-    width: 30%;
-}
-</style>
+---
+Date
