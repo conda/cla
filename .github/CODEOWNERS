@@ -1,0 +1,9 @@
+# Syntax for this file at https://help.github.com/articles/about-codeowners/
+
+# Legal documents should be reviewed by steering council members
+# https://github.com/conda/governance/blob/main/steering.csv
+documents/       @conda/steering-council
+
+# While for the CLA signers file we've created an own subteam for review,
+# see https://github.com/conda/governance/issues/136 for more details
+.cla-signers     @conda/cla-reviewers
